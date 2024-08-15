@@ -1,13 +1,26 @@
-# Webaudio tracker
+# WebAudio Tracker (WIP)
 
-webaudio based music tracker, this is a WIP
+WebAudio Tracker is a web-based music tracker that leverages the WebAudio API.
 
+## Features
 
-## usage 
+- **Tracker Interface:** Create and edit patterns using a traditional tracker-style interface.
+- **WebAudio API Integration:** Utilize the WebAudio API for powerful audio manipulation.
+- **Pattern Sequencing:** Arrange multiple patterns to create complex compositions.
+- **Effects & Modulation:** Apply various audio effects and modulations to your tracks (Still in progress\*).
 
-> npm run dev
+## Getting Started
 
-## notation
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/rexmalebka/webaudio-tracker.git
+   cd webaudio-tracker
+   ```
+
+### notation
 
 | notation | description                             |
 | -------- | --------------------------------------- |
