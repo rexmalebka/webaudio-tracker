@@ -1,0 +1,6 @@
+body {
+  @apply m-0 h-screen w-screen p-0 ;
+}
+#root {
+  @apply flex h-screen w-screen justify-center p-4 font-mono;
+}
